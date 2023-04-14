@@ -38,7 +38,7 @@ body {
 }
 
 .logo-studio {
-  color: #2e2f42;
+  color: #f4f4fd;
 }
 
 .link {
@@ -118,6 +118,7 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .features-item {
@@ -134,6 +135,7 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   list-style: none;
+  color: #2e2f42;
 }
 
 .team-members {
